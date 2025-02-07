@@ -21,3 +21,6 @@ console.log(vendedor.nombrecompleto())
 
 //para mostrar el array:
 console.log(vendedor.Habilidades)
+
+//mostrar todo el objeto.
+console.log(vendedor)
